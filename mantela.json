@@ -1,0 +1,27 @@
+{
+  "$schema": "https://tkytel.github.io/mantela/0.1/mantela.schema.json",
+  "version": "0.1.0",
+  "aboutMe": {
+    "identifier": "906286ae-3639-453f-b500-44a910445968",
+    "name": "sirin",
+    "preferredPrefix": [
+      "444"
+    ]
+  },
+  "extensions": [
+    {
+      "name": "main",
+      "extension": "444",
+      "type": "phone",
+      "identifier": "37ZG3LG4"
+    }
+  ],
+  "providers": [
+    {
+      "name": "yude",
+      "prefix": "390",
+      "identifier": "3be47f94-3185-4198-ac3d-ca5ccb573cc2",
+      "mantela": "https://www.yude.jp.eu.org/.well-known/mantela.json"
+    }
+  ]
+}
