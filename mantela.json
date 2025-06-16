@@ -5,13 +5,13 @@
     "identifier": "906286ae-3639-453f-b500-44a910445968",
     "name": "sirin",
     "preferredPrefix": [
-      "444"
+      "101"
     ]
   },
   "extensions": [
     {
       "name": "main",
-      "extension": "444",
+      "extension": "4444",
       "type": "phone",
       "identifier": "37ZG3LG4"
     }
