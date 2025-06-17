@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "aboutMe": {
     "identifier": "906286ae-3639-453f-b500-44a910445968",
-    "name": "sirin",
+    "name": "SiRin Seoul PBX",
     "preferredPrefix": [
       "101"
     ]
@@ -14,14 +14,104 @@
       "extension": "4444",
       "type": "phone",
       "identifier": "37ZG3LG4"
+    },
+    {
+      "name": "ChanWoo Go",
+      "extension": "8282",
+      "type": "phone",
+      "identifier": "A1C8F5D2"
+    },
+    {
+      "name": "Daniel Jung",
+      "extension": "523",
+      "type": "phone",
+      "identifier": "B7D3E9A1"
+    },
+    {
+      "name": "Dobob",
+      "extension": "5973",
+      "type": "phone",
+      "identifier": "F4A2B6C7"
+    },
+    {
+      "name": "FennecFoxSW",
+      "extension": "0128",
+      "type": "phone",
+      "identifier": "D2B1C3E9"
+    },
+    {
+      "name": "Inchang-Baek",
+      "extension": "6974",
+      "type": "phone",
+      "identifier": "E8F3A1B7"
+    },
+    {
+      "name": "Interval",
+      "extension": "6969",
+      "type": "phone",
+      "identifier": "C3E9D2F1"
+    },
+    {
+      "name": "Jaejune",
+      "extension": "3003",
+      "type": "phone",
+      "identifier": "A9B5C6D3"
+    },
+    {
+      "name": "Jaesung Jeong",
+      "extension": "111",
+      "type": "phone",
+      "identifier": "B6D8F3A1"
+    },
+    {
+      "name": "Johan",
+      "extension": "1004",
+      "type": "phone",
+      "identifier": "D1A2E9C7"
+    },
+    {
+      "name": "SiRin",
+      "extension": "100",
+      "type": "phone",
+      "identifier": "C8A3F5D2"
+    },
+    {
+      "name": "TEST",
+      "extension": "1005",
+      "type": "phone",
+      "identifier": "F3B1C6D8"
+    },
+    {
+      "name": "Xenon",
+      "extension": "0125",
+      "type": "phone",
+      "identifier": "E2D9B7A1"
+    },
+    {
+      "name": "Yunho",
+      "extension": "3939",
+      "type": "phone",
+      "identifier": "B2C1D3E7"
+    },
+    {
+      "name": "문승현",
+      "extension": "1111",
+      "type": "phone",
+      "identifier": "D9A4C2F3"
     }
   ],
   "providers": [
     {
       "name": "yude",
-      "prefix": "390",
+      "preferredPrefix": [ "390", "3900" ],
       "identifier": "3be47f94-3185-4198-ac3d-ca5ccb573cc2",
       "mantela": "https://www.yude.jp.eu.org/.well-known/mantela.json"
+    },
+    {
+      "name": "Sgch",
+      "preferredPrefix": ["248", "2048"],
+      "identifier": "81c99427-4a30-4364-8b17-fed97f347439",
+      "mantela": "https://sgchsgch.net/.well-known/mantela.json"
     }
   ]
 }
