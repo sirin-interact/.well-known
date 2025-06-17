@@ -112,6 +112,12 @@
       "preferredPrefix": ["248", "2048"],
       "identifier": "81c99427-4a30-4364-8b17-fed97f347439",
       "mantela": "https://sgchsgch.net/.well-known/mantela.json"
+    },
+    {
+      "name": "kimkim0106",
+      "preferredPrefix": ["106", "0106"],
+      "identifier": "8b741e2b-45f9-4187-9da1-05d866b79a09",
+      "mantela": "https://kimkim0106.net/.well-known/mantela.json"
     }
   ]
 }
