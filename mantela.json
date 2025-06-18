@@ -143,5 +143,12 @@
       "identifier": "8b741e2b-45f9-4187-9da1-05d866b79a09",
       "mantela": "https://kimkim0106.net/.well-known/mantela.json"
     }
+    ,
+    {
+      "name": "rei_k Public",
+      "preferredPrefix": ["224", "0224"],
+      "identifier": "66b340f4-de88-4ab4-9ac3-21a9a06bb012",
+      "mantela": "https://sousuke0422.github.io/.well-known/mantela.json"
+    }
   ]
 }
