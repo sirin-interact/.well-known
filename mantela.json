@@ -116,6 +116,12 @@
       "extension": "6687",
       "type": "phone",
       "identifier": "A21321DC"
+    },
+    {
+      "name": "sinoka",
+      "extension": "65536",
+      "type": "phone",
+      "identifier": "F23C89AB"
     }
   ],
   "providers": [
