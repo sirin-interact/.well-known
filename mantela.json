@@ -46,6 +46,12 @@
       "identifier": "E8F3A1B7"
     },
     {
+      "name": "Inchang-Baek",
+      "extension": "6975",
+      "type": "phone",
+      "identifier": "05CE699D"
+    },
+    {
       "name": "Interval",
       "extension": "6969",
       "type": "phone",
@@ -98,6 +104,12 @@
       "extension": "1111",
       "type": "phone",
       "identifier": "D9A4C2F3"
+    },
+    {
+      "name": "이재환",
+      "extension": "1234",
+      "type": "phone",
+      "identifier": "1B12FC26"
     }
   ],
   "providers": [
