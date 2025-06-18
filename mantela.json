@@ -100,7 +100,7 @@
       "identifier": "B2C1D3E7"
     },
     {
-      "name": "문승현",
+      "name": "M",
       "extension": "1111",
       "type": "phone",
       "identifier": "D9A4C2F3"
@@ -110,6 +110,12 @@
       "extension": "1234",
       "type": "phone",
       "identifier": "1B12FC26"
+    },
+    {
+      "name": "Seiha",
+      "extension": "6687",
+      "type": "phone",
+      "identifier": "A21321DC"
     }
   ],
   "providers": [
