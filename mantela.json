@@ -149,6 +149,12 @@
       "preferredPrefix": ["224", "0224"],
       "identifier": "66b340f4-de88-4ab4-9ac3-21a9a06bb012",
       "mantela": "https://sousuke0422.github.io/.well-known/mantela.json"
+    },
+    {
+      "name": "noritel",
+      "prefix": "989",
+      "identifier": "8ad8afa6-11a8-4e61-b28d-343393f3d4d4",
+      "mantela": "https://ajinori256.com/.well-known/mantela.json"
     }
   ]
 }
